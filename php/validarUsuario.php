@@ -6,7 +6,7 @@
 	$clave=$_POST['clave'];
 	$recordar=$_POST['recordarme'];
 
-	$claveEncriptada = sha1(md5($clave));
+	$claveEncriptada = ($clave);
 
 	//echo var_dump($claveEncriptada);
 

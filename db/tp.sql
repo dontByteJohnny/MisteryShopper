@@ -116,7 +116,8 @@ INSERT INTO `usuarios` (`id`, `mail`, `clave`, `nombre`, `apellido`, `dni`, `dir
 (6, 'a@a.com', 'a', 'a', 'a', 1000000, 'a', '123', 'user'),
 (7, 'e@e.com', 'e', 'e', 'e', 1000001, 'e', 'e', 'user'),
 (9, 'msimonetti@gmail.com', 'adcd7048512e64b48da55b027577886ee5a36350', 'Martín', 'Simonetti', 31469095, 'Senador Pallares 1794', '1111-1111', 'admin'),
-(10, 'a@a.com', '6f9b0a55df8ac28564cb9f63a10be8af6ab3f7c2', 'Federico', 'Sauzza', 1000001, 'Casazza 266', '2222-2222', 'user');
+(10, 'a@a.com', '6f9b0a55df8ac28564cb9f63a10be8af6ab3f7c2', 'Federico', 'Sauzza', 1000001, 'Casazza 266', '2222-2222', 'user'),
+(20, 'jonathan@gmail.com', '34515970', 'Jonathan', 'Ibarra', 34515970, 'Entre Rios 1486', '1234-1234', 'admin');
 
 --
 -- Índices para tablas volcadas

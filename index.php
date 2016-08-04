@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>    
-    <title>Farmacias Tincho</title>
+    <title>Farmacias John</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -80,7 +80,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-4 f-about">
-						<a href="index.html"><h1><span>F</span>armacias Tincho</h1></a>
+						<a href="index.html"><h1><span>F</span>Farmacias JOHN</h1></a>
 						<p>Nosotros, nos preocupamos por su salud. Por eso, tenemos a disposición un grupo de profesionales,
 						dispuestos a brindar solución a todas sus inquietudes. 
 						</p>
@@ -96,7 +96,7 @@
 					</div>
 					<div class="col-md-4 f-contact">
 						<h3 class="widgetheading">Casa central</h3>
-						<a href="#"><p><i class="fa fa-envelope"></i> info@farmaciastincho.com.ar</p></a>
+						<a href="#"><p><i class="fa fa-envelope"></i> info@farmaciasjohn.com.ar</p></a>
 						<p><i class="fa fa-phone"></i> (011) 1234-5678</p>
 						<p><i class="fa fa-home"></i> Av. Mitre 750 <br>
 							Avellaneda, Buenos Aires</p>
@@ -110,7 +110,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="copyright">
-						© 2015 Diseñado por | <a target="_blank" href="http://www.msimonetti.tuars.com">Martín Simonetti</a>
+						© 2016 Diseñado por | <a target="_blank" href="http://www.johnny.com">Jonathan Ibarra</a>
 					</div>			
 				</div>
 			</div>
